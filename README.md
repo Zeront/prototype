@@ -1,2 +1,4 @@
 # prototype
-game jam prototype
+Game Jam Prototype
+
+Zeront
